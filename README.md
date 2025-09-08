@@ -14,7 +14,9 @@ cmake -build .
 ## Run
 
 To run tests:
+```sh
 `ctest -C Debug`
+```
 
 To run the programm itself run:
 ```sh
